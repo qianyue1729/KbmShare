@@ -1,0 +1,9 @@
+# 编译产物不入库, 用 build.bat 自行构建
+*.exe
+*.obj
+bin/
+obj/
+
+# 系统杂项
+Thumbs.db
+Desktop.ini
